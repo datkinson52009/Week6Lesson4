@@ -1,0 +1,33 @@
+h1 {
+  color: #6062eb;
+}
+h2 {
+  font-weight: lighter;
+}
+h3 {
+  font-size: 20px;
+}
+.col {
+  text-align: center;
+}
+.container {
+  background-color: rgba(199, 190, 190, 0.459);
+}
+body {
+  border: 3px solid #6062eb;
+  margin: 20px 50px 20px 50px;
+  border-radius: 8px;
+}
+.currentTemp {
+  display: inline;
+}
+.humidity {
+  font-size: 15px;
+}
+.wind {
+  font-size: 15px;
+}
+button {
+  background-color: #6062eb;
+  color: white;
+}
